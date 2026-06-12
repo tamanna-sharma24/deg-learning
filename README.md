@@ -1,2 +1,3 @@
 # deg-learning
-End-to-end RNA-seq differential expression analysis pipeline using DESeq2 on hepatotoxicity public datasets.
+🚧 WORK IN PROGRESS > This repository is an active learning sandbox for an end-to-end transcriptomics pipeline. Code is updated as milestone requirements are completed.
+
